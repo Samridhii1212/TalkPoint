@@ -1,0 +1,22 @@
+
+
+.neumorphism-container {
+  background-color: #ffffff;
+  /* Light background */
+  padding: 21px;
+  border-radius: 20px;
+  box-shadow: 10px 10px 30px #fffdfd, -10px -10px 30px #ffffff;
+  margin-top: 10px;
+  /* Neumorphic shadow */
+}
+
+.neumorphism-box {
+  background-color: #ffffff;
+  /* Light background */
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 10px 10px 30px #bfbfbf, -10px -10px 30px #ffffff;
+  /* Neumorphic shadow */
+}
+
+/* Additional styling for Tabs and Inputs can be added here */
