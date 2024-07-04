@@ -22,6 +22,9 @@ Check out the live demo of TalkPoint here.
 <p align="center">
   <img src="https://github.com/Samridhii1212/TalkPoint/assets/115480641/fea26d48-4d63-437a-8c1b-46ad6bb42070" alt="chat1" width="500"/>
 </p>
+<br>
+<br>
+<br>
 <p align="center">
   <img src="https://github.com/Samridhii1212/TalkPoint/assets/115480641/f2e218cb-6dbf-44ec-8c97-dfbb746cd889" alt="chat2" width="500"/>
 </p>
