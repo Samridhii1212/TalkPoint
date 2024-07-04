@@ -22,9 +22,7 @@ Check out the live demo of TalkPoint here.
 <p align="center">
   <img src="https://github.com/Samridhii1212/TalkPoint/assets/115480641/fea26d48-4d63-437a-8c1b-46ad6bb42070" alt="chat1" width="500"/>
 </p>
-<br>
-<br>
-<br>
+
 
 <h3>Search User</h3>
 <p align="center">
