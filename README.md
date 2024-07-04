@@ -19,10 +19,18 @@ TalkPoint is a real-time chat application that enables seamless communication be
 Check out the live demo of TalkPoint here.
 [Link to demo](https://talkpoint.onrender.com/chats)
 
-## Usage
+Usage![chat1](https://github.com/Samridhii1212/TalkPoint/assets/115480641/fea26d48-4d63-437a-8c1b-46ad6bb42070)
+
+![chat2](https://github.com/Samridhii1212/TalkPoint/assets/115480641/f2e218cb-6dbf-44ec-8c97-dfbb746cd889)
+
+
+![chat3](https://github.com/Samridhii1212/TalkPoint/assets/115480641/c252162c-979b-4c6c-91a0-5421a51ad813)
+
+![chat4](https://github.com/Samridhii1212/TalkPoint/assets/115480641/29060f39-6cc7-43c5-9f7d-dafce329385d)
 
 1. **Register or Log In**: Create an account or log in to start chatting.
-2. **Start a Chat**: Select a user or a group to start a conversation.
+2. **Start a Chat**: Select a user 
+or a group to start a conversation.
 3. **Send Messages**: Type your message and hit send to communicate instantly.
 4. **Real-Time Updates**: Experience real-time messaging with instant updates.
 5. **Receive Notifications**: Get notified of new messages and activities.
