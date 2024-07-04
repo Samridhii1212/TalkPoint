@@ -30,6 +30,7 @@ Check out the live demo of TalkPoint here.
 ## Technologies Used
 
 **Client:** React, Chakra UI, Axios, React Router DOM
+
 **Server:** Node.js, Express, Socket.io
 
 **Database:** MongoDB, Mongoose
