@@ -36,7 +36,12 @@ Check out the live demo of TalkPoint here.
   <img src="https://github.com/Samridhii1212/TalkPoint/assets/115480641/c252162c-979b-4c6c-91a0-5421a51ad813" alt="chat3" width="500"/>
 </p>
 
-<h3>Grpup Update</h3>
+<h3>Create Group Chat</h3>
+<p align="center">
+  <img src="https://github.com/Samridhii1212/TalkPoint/assets/115480641/f91d966e-6341-4444-ac3d-c148bcee0dd7" alt="chat4" width="500"/>
+</p>
+
+<h3>Group Update</h3>
 <p align="center">
   <img src="https://github.com/Samridhii1212/TalkPoint/assets/115480641/29060f39-6cc7-43c5-9f7d-dafce329385d" alt="chat4" width="500"/>
 </p>
